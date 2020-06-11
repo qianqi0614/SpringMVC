@@ -43,7 +43,7 @@ Spring MVC 流程非常复杂，实际开发中很简单，因为大部分组件
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.0.11.RELEASE</version>
+      <version>5.0.17.RELEASE</version>
     </dependency>
   </dependencies>
 ```
